@@ -1,0 +1,11 @@
+﻿  MyApp.cpp
+  graphics.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  MyApp.vcxproj -> C:\Users\user\Documents\ELTE\Project_With_The_Boys\x64\Debug\MyApp.exe
